@@ -17,3 +17,6 @@ Here we propose an IoT based Solar power monitoring system so that we can monito
 • Regulator, wires<br>
 • Laptop/Desktop<br>
 • Smartphone<br>
+
+## BLYNK APP READINGS
+![Captur1e](https://user-images.githubusercontent.com/69033172/132131855-80ed7a4d-8224-430f-97fd-70a8cb627c63.JPG)
