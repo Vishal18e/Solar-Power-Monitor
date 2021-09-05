@@ -3,4 +3,5 @@ Nowadays usage of solar power is increasing day by day. Solar power plants need 
 Here we propose an IoT based Solar power monitoring system so that we can monitor those solar panels automatically using IoT from any location over the internet. Our Designed system will constantly monitor solar panels and sends the power output to IOT over internet. We use current and voltage sensors along with voltage divider to read the power parameters. We use Arduino microcontroller for controlling the whole system and sensor constantly transmits the sensed parameters to microcontroller. The microcontroller which process the parameters and then further transmits it to internet over Wi-Fi module. Also, system alert the concerned person over mobile app if the power parameters falls below certain limits. Thus, the system makes remotely monitoring easier and helps maintaining desired power output. Hence solves the difficulty of monitoring solar plants manually.
 <br>
 <br>
+## Primary Block Diagram
 ![Capture](https://user-images.githubusercontent.com/69033172/132126565-d56c77b8-b786-4bba-9894-bd14717057af.JPG)
