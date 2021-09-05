@@ -24,5 +24,5 @@ Here we propose an IoT based Solar power monitoring system so that we can monito
 ## Project Report
 A Pdf of the project report can be found at : "https://drive.google.com/file/d/1SCfn-9zRtNlq5wg7UfFl2FsvZLjWcpoN/view"
 
-## A Live Demostration video of the project
-Demostration Link: "https://www.youtube.com/watch?v=li5EzPpvxTk"
+## A Live Demonstration video of the project
+Demonstration Link: "https://www.youtube.com/watch?v=li5EzPpvxTk"
