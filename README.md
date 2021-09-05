@@ -5,3 +5,15 @@ Here we propose an IoT based Solar power monitoring system so that we can monito
 <br>
 ## Primary Block Diagram
 ![Capture](https://user-images.githubusercontent.com/69033172/132126565-d56c77b8-b786-4bba-9894-bd14717057af.JPG)
+## Primary Hardware Requirements
+• Arduino<br>
+• Node MCU<br>
+• LCD display<br>
+• Current Sensor<br>
+• Voltage sensor<br>
+• Voltage divider<br>
+• Breadboard<br>
+• Main Switch, Load switch<br>
+• Regulator, wires<br>
+• Laptop/Desktop<br>
+• Smartphone<br>
